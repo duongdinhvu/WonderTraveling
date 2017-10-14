@@ -1,0 +1,11 @@
+#form_booking .has-error .control-label,
+#form_booking .has-error .help-block,
+#form_booking .has-error .form-control-feedback {
+    color: #f39c12;
+}
+
+#form_booking .has-success .control-label,
+#form_booking .has-success .help-block,
+#form_booking .has-success .form-control-feedback {
+    color: #18bc9c;
+}
